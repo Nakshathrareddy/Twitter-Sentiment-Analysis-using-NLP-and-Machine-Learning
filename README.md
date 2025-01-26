@@ -1,4 +1,4 @@
-Here’s a concise and professional version:  
+
 Twitter Sentiment Analysis using NLP and Machine Learning  
 
 This project classifies Twitter sentiments as positive, negative, or neutral using Natural Language Processing (NLP) and machine learning techniques. It preprocesses text data with tokenization, stopword removal, special character cleaning, and lemmatization. A Multinomial Naive Bayes model is trained on numerical features generated via CountVectorizer for accurate sentiment prediction.  
